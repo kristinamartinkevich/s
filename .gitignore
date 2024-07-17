@@ -1,0 +1,15 @@
+.DS_Store
+/node_modules
+/.firebase
+/dist
+
+/functions/.env
+/functions/.env.production.local 
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.production
+.env
+
+.firebaserc

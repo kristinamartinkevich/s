@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 0 1250 1250">
+      <defs>
+            <style>
+                  .cls-1{isolation:isolate;}.cls-2{fill:url(#radial-gradient);}.cls-3{fill:url(#radial-gradient-2);}.cls-4{fill:url(#radial-gradient-3);}.cls-5{fill:url(#radial-gradient-4);}.cls-6{mix-blend-mode:screen;}.cls-7{fill:url(#radial-gradient-5);}.cls-8{fill:url(#radial-gradient-6);}.cls-9{fill:url(#radial-gradient-7);}.cls-10{fill:url(#radial-gradient-8);}</style>
+            <radialGradient id="radial-gradient" cx="-4479.47" cy="1240.8" r="368.29"
+                  gradientTransform="translate(258.24 1611.93)" gradientUnits="userSpaceOnUse">
+                  <stop offset="0.5" stop-color="#fff" />
+                  <stop offset="1" stop-color="#b5bbc4" />
+            </radialGradient>
+            <radialGradient id="radial-gradient-2" cx="-4896.14" cy="1344.97" r="416.67"
+                  xlink:href="#radial-gradient" />
+            <radialGradient id="radial-gradient-3" cx="-4896.14" cy="1865.8" r="368.29"
+                  xlink:href="#radial-gradient" />
+            <radialGradient id="radial-gradient-4" cx="-4479.47" cy="1761.64" r="416.67"
+                  xlink:href="#radial-gradient" />
+            <radialGradient id="radial-gradient-5" cx="-4479.47" cy="1240.8" r="368.29"
+                  gradientTransform="translate(258.24 1611.93)" gradientUnits="userSpaceOnUse">
+                  <stop offset="0.5" stop-color="#fff" />
+                  <stop offset="1" />
+            </radialGradient>
+            <radialGradient id="radial-gradient-6" cx="-4896.14" cy="1344.97" r="416.67"
+                  xlink:href="#radial-gradient-5" />
+            <radialGradient id="radial-gradient-7" cx="-4896.14" cy="1865.8" r="368.29"
+                  xlink:href="#radial-gradient-5" />
+            <radialGradient id="radial-gradient-8" cx="-4479.47" cy="1761.64" r="416.67"
+                  xlink:href="#radial-gradient-5" />
+      </defs>
+      <g class="cls-1">
+            <g id="Layer_1" data-name="Layer 1">
+                  <path class="cls-2"
+                        d="M-3804.56,2956.9c0-230.12-186.55-416.66-416.67-416.66s-416.67,186.54-416.67,416.66h0V3165c.15-114.92,93.33-208,208.27-208.07h625.07Z"
+                        transform="translate(5054.56 -2540.24)" />
+                  <path class="cls-3"
+                        d="M-4429.75,3373.57c-115-.1-208.11-93.3-208.15-208.27V2956.9h0c0-230.12,186.55-416.66,416.67-416.66H-4637.9c-230.12,0-416.66,186.54-416.66,416.66s186.54,416.67,416.66,416.67h208.15Z"
+                        transform="translate(5054.56 -2540.24)" />
+                  <path class="cls-4"
+                        d="M-5054.56,3373.57c0,230.12,186.54,416.67,416.66,416.67s416.67-186.55,416.67-416.67h0V3165.5c-.15,114.92-93.33,208-208.27,208.07h-625.06Z"
+                        transform="translate(5054.56 -2540.24)" />
+                  <path class="cls-5"
+                        d="M-4429.37,2956.9c114.95.11,208.1,93.3,208.14,208.27v208.4h0c0,230.12-186.55,416.67-416.67,416.67h416.67c230.12,0,416.67-186.55,416.67-416.67s-186.55-416.67-416.67-416.67h-208.14Z"
+                        transform="translate(5054.56 -2540.24)" />
+                  <g class="cls-6">
+                        <path class="cls-7"
+                              d="M-3804.56,2956.9c0-230.12-186.55-416.66-416.67-416.66s-416.67,186.54-416.67,416.66h0V3165c.15-114.92,93.33-208,208.27-208.07h625.07Z"
+                              transform="translate(5054.56 -2540.24)" />
+                        <path class="cls-8"
+                              d="M-4429.75,3373.57c-115-.1-208.11-93.3-208.15-208.27V2956.9h0c0-230.12,186.55-416.66,416.67-416.66H-4637.9c-230.12,0-416.66,186.54-416.66,416.66s186.54,416.67,416.66,416.67h208.15Z"
+                              transform="translate(5054.56 -2540.24)" />
+                        <path class="cls-9"
+                              d="M-5054.56,3373.57c0,230.12,186.54,416.67,416.66,416.67s416.67-186.55,416.67-416.67h0V3165.5c-.15,114.92-93.33,208-208.27,208.07h-625.06Z"
+                              transform="translate(5054.56 -2540.24)" />
+                        <path class="cls-10"
+                              d="M-4429.37,2956.9c114.95.11,208.1,93.3,208.14,208.27v208.4h0c0,230.12-186.55,416.67-416.67,416.67h416.67c230.12,0,416.67-186.55,416.67-416.67s-186.55-416.67-416.67-416.67h-208.14Z"
+                              transform="translate(5054.56 -2540.24)" />
+                  </g>
+            </g>
+      </g>
+</svg>

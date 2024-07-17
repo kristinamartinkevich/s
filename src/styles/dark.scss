@@ -1,0 +1,189 @@
+.dark {
+
+    .input {
+        border: 1px solid #a3a2a6;
+        background-color: #1d1c20;
+        color: white;
+    }
+
+    .payment-card {
+        background-color: #1d1c20;
+    }
+
+    .navbar,
+    .footer {
+        background-color: #1F1E21 !important;
+        color: white;
+    }
+
+    .offcanvas,
+    .offcanvas-body {
+        background-color: #1F1E21 !important;
+        color: white;
+    }
+
+    .page-layout {
+        background-color: #0B0A0C !important;
+        color: white;
+    }
+
+    .light-button {
+        background-color: #4F4D55;
+        color: white;
+    }
+
+    .secondary-text {
+        color: #F1F1F1;
+    }
+
+    .icon-button {
+        background-color: #131016;
+
+        .icon {
+            color: white;
+        }
+    }
+
+    .icon-button:hover {
+        background-color: #4F4D55;
+
+        .icon {
+            color: #F1F1F1;
+        }
+    }
+
+    body {
+        color: white;
+    }
+
+    .default-select {
+        color: #F1F1F1;
+        background-color: #131016;
+    }
+
+    .default-select:hover {
+        background-color: #4F4D55;
+    }
+
+    .list-label {
+        color: #ADACB0;
+    }
+
+    .card {
+        background-color: #4F4D55;
+        color: #F1F1F1;
+    }
+
+    .light-button {
+        background-color: #131016;
+        color: #F1F1F1;
+
+        .icon {
+            color: #F1F1F1;
+        }
+    }
+
+    .light-button:hover {
+        background-color: #1F1E21;
+
+        .icon {
+            color: #F1F1F1;
+        }
+    }
+
+    .light-button:disabled,
+    .dark-button:disabled {
+        color: #4F4D54;
+        background-color: #2D2B31;
+    }
+
+    .main-text {
+        color: #F1F1F1;
+    }
+
+    .list-item {
+        color: #ADACB0;
+
+        .icon {
+            color: #ADACB0;
+        }
+
+        a {
+            color: #ADACB0;
+        }
+    }
+
+    .list-item:hover {
+        background-color: #4F4D55;
+        color: white;
+
+        .icon {
+            color: white;
+        }
+
+        a {
+            color: white;
+        }
+    }
+
+    .logout {
+        color: #E12121 !important;
+
+        .icon {
+            color: #E12121 !important
+        }
+    }
+
+    .logout:hover {
+        color: #FFE3E3 !important;
+        background-color: #961616;
+
+        .icon {
+            color: #FFE3E3 !important
+        }
+    }
+
+    .basic {
+        background-color: #113B98;
+        color: #EBF0FB;
+    }
+
+    .premium {
+        background-color: #C47E0A;
+        color: #FFF1DA;
+    }
+
+    .current-plan {
+        background-color: #C47E0A;
+
+        .main-text {
+            color: #F1F1F1;
+        }
+
+        .secondary-text {
+            color: #ffd797;
+        }
+    }
+
+    .other-plan {
+        background-color: #F1F1F1;
+        color: #0A090B;
+
+        .main-text {
+            color: #F1F1F1;
+        }
+
+        .secondary-text {
+            color: #4F4D55;
+        }
+    }
+
+    .price-card {
+        background-color: #4F4D55;
+        color: white;
+
+        .secondary-text {
+            color: #F1F1F1;
+        }
+    }
+}

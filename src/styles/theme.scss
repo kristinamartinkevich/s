@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+/* Theme */
+
+:root {
+  --font-primary: "Inter", sans-serif;
+  --font-secondary: "Space Grotesk", sans-serif;
+  --font-mono: "Inter", monospace;
+
+  --primary: #1751D0;
+  --primary-light: #EBF0FB;
+  --primary-dark: #113B98;
+
+  --error: #BC1C1C;
+  --error-light: #FFE3E3;
+  --error-dark: #961616;
+
+
+  --warning: #EC980C;
+  --warning-light: #FFF1DA;
+  --warning-dark: #C47E0A;
+
+  --success: #018030;
+  --success-light: #E1FAEA;
+  --success-dark: #016626;
+}
